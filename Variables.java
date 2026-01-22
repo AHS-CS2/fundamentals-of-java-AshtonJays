@@ -1,9 +1,9 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
 
-//Name -
-//Date -
-//Class -
+//Name - Ashton Jays
+//Date - 1/22/26
+//Class - CSI
 //Lab  -
 
 public class Variables
@@ -18,8 +18,9 @@ public class Variables
 
 		//integer variables
 		byte byteOne = 127;
-
-
+		short shortOne = -30333;
+		int intOne = 80321;
+		long longOne = 777777777;
 		//decimal variables
 
 
@@ -33,9 +34,13 @@ public class Variables
 		System.out.println("/////////////////////////////////");
 		System.out.println("*                               *");
 		System.out.println("*        integer types          *");
-		System.out.println("*                               *");
+		
 		System.out.println("*8 bit - byteOne = "+byteOne+"\t\t*");
-
+		System.out.println("*16 bit - shortOne = "+shortOne+"\t*");
+		System.out.println("*32 bit - intOne = ""                               *");
+		System.out.println("*                               *");
+		System.out.println("*                               *");
+		System.out.println("*                               *");
 
 
 
