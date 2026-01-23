@@ -1,10 +1,10 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
 
-//Name -
-//Date -
-//Class -
-//Lab  -
+//Name - Ashton Jays
+//Date - 1/21/26
+//Class - CSI
+//Lab  - 2.1 variables
 
 import static java.lang.System.*;
 import java.util.Scanner;
