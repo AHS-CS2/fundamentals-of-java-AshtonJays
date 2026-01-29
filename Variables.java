@@ -29,7 +29,7 @@ public class Variables
 
 		//other types
 		boolean booleanOne = true;
-		string stringOne = "hello world";
+		String stringOne = "hello world";
 		//output your information here
 		System.out.println("/////////////////////////////////");
 		System.out.println("*Ashton Jays\t\t 1/22/25*");
@@ -54,6 +54,6 @@ public class Variables
 		System.out.println("*                               *");
 		System.out.println("*booleanOne = "+booleanOne+"\t\t*");
 		System.out.println("*stringOne = "+stringOne+"\t*");
-		System.out.println("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
+		System.out.println("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
 	}
 }
