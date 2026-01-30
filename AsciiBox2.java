@@ -14,18 +14,18 @@ public class AsciiBox2
 		System.out.println("Ashton Jays\t 1/21/26\n\n");
 		
 
-		System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAA ");
-		System.out.println("++++++++++++++++++++++++++++ ");
-		System.out.println("+++ \t\t\t +++");
-		System.out.println("+++ \t\t\t +++");
-		System.out.println("+++ \t\t\t +++");
-		System.out.println("+++ \t\t\t +++");
-		System.out.println("+++ \tCompSci\t\t +++");
-		System.out.println("+++ \t\t\t +++");
-		System.out.println("+++ \t\t\t +++");
-		System.out.println("+++ \t\t\t +++");
-		System.out.println("+++ \t\t\t +++");
-		System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAA ");
-		System.out.println("++++++++++++++++++++++++++++ ");
+		System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+		System.out.println("++++++++++++++++++++++++++++");
+		System.out.println("+++                      +++");
+		System.out.println("+++                      +++");
+		System.out.println("+++                      +++");
+		System.out.println("+++                      +++");
+		System.out.println("+++     CompSci          +++");
+		System.out.println("+++                      +++");
+		System.out.println("+++                      +++");
+		System.out.println("+++                      +++");
+		System.out.println("+++                      +++");
+		System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+		System.out.println("++++++++++++++++++++++++++++");
 	}
 }
