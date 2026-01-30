@@ -1,8 +1,8 @@
-//© A+ Computer Science
+//ï¿½ A+ Computer Science
 //www.apluscompsci.com
 
-//Name -
-//Date -
+//Name - Ashton Jays
+//Date - 1/30/26
 //Class -
 //Lab  -
 
@@ -18,21 +18,34 @@ public class StarsAndStripes
 
    public void printTwentyStars()
    {
+      System.out.println("********************");
    }
 
    public void printTwentyDashes()
    {
+      System.out.println("--------------------");
    }
 
    public void printTwoBlankLines()
    {
+      System.out.println("\n\n");
    }
    
    public void printASmallBox()
    {	
+      printTwentyDashes();
+      printTwentyStars();
+      printTwentyDashes();
+      printTwentyStars();
+      printTwentyDashes();
+      printTwentyStars();
+      printTwentyDashes();
    }
  
    public void printABigBox()
    { 	
+      printTwoBlankLines();
+      printASmallBox();
+      printASmallBox();
    }   
 }
